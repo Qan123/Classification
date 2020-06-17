@@ -3,7 +3,6 @@ drive.mount('/content/drive')
 
 pip install -q keras
 
-
 import keras
 
 from keras.preprocessing.image import ImageDataGenerator
